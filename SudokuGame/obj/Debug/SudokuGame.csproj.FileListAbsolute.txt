@@ -1,0 +1,33 @@
+C:\Users\Dell 7590\Downloads\estructura de datos 3ra\Programitas tercer parcial\juego sudoku\SudokuGame 2.0\SudokuGame\SudokuGame\obj\Debug\SudokuGame.csproj.AssemblyReference.cache
+C:\Users\Dell 7590\Downloads\estructura de datos 3ra\Programitas tercer parcial\juego sudoku\SudokuGame 2.0\SudokuGame\SudokuGame\obj\Debug\SudokuGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell 7590\Downloads\estructura de datos 3ra\Programitas tercer parcial\juego sudoku\SudokuGame 2.0\SudokuGame\SudokuGame\obj\Debug\SudokuGame.Form1.resources
+C:\Users\Dell 7590\Downloads\estructura de datos 3ra\Programitas tercer parcial\juego sudoku\SudokuGame 2.0\SudokuGame\SudokuGame\obj\Debug\SudokuGame.Properties.Resources.resources
+C:\Users\Dell 7590\Downloads\estructura de datos 3ra\Programitas tercer parcial\juego sudoku\SudokuGame 2.0\SudokuGame\SudokuGame\obj\Debug\SudokuGame.csproj.GenerateResource.cache
+C:\Users\Dell 7590\Downloads\estructura de datos 3ra\Programitas tercer parcial\juego sudoku\SudokuGame 2.0\SudokuGame\SudokuGame\obj\Debug\SudokuGame.csproj.CoreCompileInputs.cache
+C:\Users\Dell 7590\Downloads\estructura de datos 3ra\Programitas tercer parcial\juego sudoku\SudokuGame 2.0\SudokuGame\SudokuGame\bin\Debug\SudokuGame.exe.config
+C:\Users\Dell 7590\Downloads\estructura de datos 3ra\Programitas tercer parcial\juego sudoku\SudokuGame 2.0\SudokuGame\SudokuGame\bin\Debug\SudokuGame.exe
+C:\Users\Dell 7590\Downloads\estructura de datos 3ra\Programitas tercer parcial\juego sudoku\SudokuGame 2.0\SudokuGame\SudokuGame\bin\Debug\SudokuGame.pdb
+C:\Users\Dell 7590\Downloads\estructura de datos 3ra\Programitas tercer parcial\juego sudoku\SudokuGame 2.0\SudokuGame\SudokuGame\obj\Debug\SudokuGame.exe
+C:\Users\Dell 7590\Downloads\estructura de datos 3ra\Programitas tercer parcial\juego sudoku\SudokuGame 2.0\SudokuGame\SudokuGame\obj\Debug\SudokuGame.pdb
+C:\Users\Francisco\OneDrive\Escritorio\SudokuGame 2.0\SudokuGame\SudokuGame\bin\Debug\SudokuGame.exe.config
+C:\Users\Francisco\OneDrive\Escritorio\SudokuGame 2.0\SudokuGame\SudokuGame\bin\Debug\SudokuGame.exe
+C:\Users\Francisco\OneDrive\Escritorio\SudokuGame 2.0\SudokuGame\SudokuGame\bin\Debug\SudokuGame.pdb
+C:\Users\Francisco\OneDrive\Escritorio\SudokuGame 2.0\SudokuGame\SudokuGame\obj\Debug\SudokuGame.csproj.AssemblyReference.cache
+C:\Users\Francisco\OneDrive\Escritorio\SudokuGame 2.0\SudokuGame\SudokuGame\obj\Debug\SudokuGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Francisco\OneDrive\Escritorio\SudokuGame 2.0\SudokuGame\SudokuGame\obj\Debug\SudokuGame.Form1.resources
+C:\Users\Francisco\OneDrive\Escritorio\SudokuGame 2.0\SudokuGame\SudokuGame\obj\Debug\SudokuGame.Properties.Resources.resources
+C:\Users\Francisco\OneDrive\Escritorio\SudokuGame 2.0\SudokuGame\SudokuGame\obj\Debug\SudokuGame.csproj.GenerateResource.cache
+C:\Users\Francisco\OneDrive\Escritorio\SudokuGame 2.0\SudokuGame\SudokuGame\obj\Debug\SudokuGame.csproj.CoreCompileInputs.cache
+C:\Users\Francisco\OneDrive\Escritorio\SudokuGame 2.0\SudokuGame\SudokuGame\obj\Debug\SudokuGame.exe
+C:\Users\Francisco\OneDrive\Escritorio\SudokuGame 2.0\SudokuGame\SudokuGame\obj\Debug\SudokuGame.pdb
+C:\Users\Dell 7590\Downloads\SudokuGame 2.0\SudokuGame 2.0\SudokuGame\SudokuGame\bin\Debug\SudokuGame.exe.config
+C:\Users\Dell 7590\Downloads\SudokuGame 2.0\SudokuGame 2.0\SudokuGame\SudokuGame\bin\Debug\SudokuGame.exe
+C:\Users\Dell 7590\Downloads\SudokuGame 2.0\SudokuGame 2.0\SudokuGame\SudokuGame\bin\Debug\SudokuGame.pdb
+C:\Users\Dell 7590\Downloads\SudokuGame 2.0\SudokuGame 2.0\SudokuGame\SudokuGame\obj\Debug\SudokuGame.csproj.AssemblyReference.cache
+C:\Users\Dell 7590\Downloads\SudokuGame 2.0\SudokuGame 2.0\SudokuGame\SudokuGame\obj\Debug\SudokuGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell 7590\Downloads\SudokuGame 2.0\SudokuGame 2.0\SudokuGame\SudokuGame\obj\Debug\SudokuGame.Form1.resources
+C:\Users\Dell 7590\Downloads\SudokuGame 2.0\SudokuGame 2.0\SudokuGame\SudokuGame\obj\Debug\SudokuGame.Properties.Resources.resources
+C:\Users\Dell 7590\Downloads\SudokuGame 2.0\SudokuGame 2.0\SudokuGame\SudokuGame\obj\Debug\SudokuGame.csproj.GenerateResource.cache
+C:\Users\Dell 7590\Downloads\SudokuGame 2.0\SudokuGame 2.0\SudokuGame\SudokuGame\obj\Debug\SudokuGame.csproj.CoreCompileInputs.cache
+C:\Users\Dell 7590\Downloads\SudokuGame 2.0\SudokuGame 2.0\SudokuGame\SudokuGame\obj\Debug\SudokuGame.exe
+C:\Users\Dell 7590\Downloads\SudokuGame 2.0\SudokuGame 2.0\SudokuGame\SudokuGame\obj\Debug\SudokuGame.pdb
